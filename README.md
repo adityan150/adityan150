@@ -2,7 +2,7 @@
 # Hi, I'm Aditya! 👋
 
 ## 🚀 About Me
-I'm a software engineering student currently in my sophomore year...
+I'm a software engineering student currently in my pre-final year...
 
 
 ## 🛠 Skills
