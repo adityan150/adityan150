@@ -6,15 +6,15 @@ I'm a software engineering student currently in my pre-final year...
 
 
 ## 🛠 Skills
-I am skilled in HTML, CSS, JavaScript, React and Java.<br>
-I am familiar with Python and Golang.
+I am skilled in Java, JavaScript and React.js.<br>
+I am familiar with C++, Python and Golang.
 
 
 ### 🧠 I'm currently learning...
 Full stack development with MERN
 
 ### 💡I'm interested in...
-Software production, blockchain and machine learning.
+Software development, blockchain and machine learning.
 
 
 ## 🔗 Links
