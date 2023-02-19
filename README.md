@@ -14,7 +14,7 @@ I am familiar with C++, Python and Golang.
 Full stack development with MERN
 
 ### 💡I'm interested in...
-Software development, blockchain and machine learning.
+Web App Development.
 
 
 ## 🔗 Links
