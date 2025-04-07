@@ -2,19 +2,18 @@
 # Hi, I'm Aditya! 👋
 
 ## 🚀 About Me
-I'm a software engineering student currently in my final year...
+I'm a Software Engineer working at HashedIn by Deloitte
 
 
 ## 🛠 Skills
-I am skilled in Java, JavaScript, React.js and Next.js<br>
-I am familiar with C++, Python, and Golang.
+I am skilled in Java, JavaScript, React.js, Python, Spark and Spring Boot.
 
 
 ### 🧠 I'm currently learning...
-Full stack development with MERN
+Microservices in Spring Boot
 
 ### 💡I'm interested in...
-building web applications.
+building large scale software solutions
 
 
 ## 🔗 Links
